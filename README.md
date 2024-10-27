@@ -1,4 +1,4 @@
-# Library-Management-System-with-CI-CD
+# Event Management Backlog
 | ID  | Title                 | Description                                      | Priority | Status      |
 | --- | --------------------- | ------------------------------------------------ | -------- | ----------- |
 | 1   | Event Listing and Registration       | List library and allows users to register for them easily.                               | High   | In Progress |
